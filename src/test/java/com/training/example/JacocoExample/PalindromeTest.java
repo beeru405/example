@@ -4,15 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-//public class PalindromeTest {
-
-	//@Test
-	//public void whenEmptyString_thenAccept() {
-	 //   Palindrome palindromeTester = new Palindrome();
-	   // assertTrue(palindromeTester.isPalindrome("madam"));
-	//}
-//}
-
 
 
 public class PalindromeTest{
@@ -23,7 +14,7 @@ public class PalindromeTest{
 public void checkstr()
 {
     Palindrome palindromeTester = new Palindrome();
-    assertTrue(palindromeTester.isWordPresent("hello this is abhishek","hello"));
+    assertTrue(palindromeTester.isWordPresent("this is abhishek","hello"));
 	
 	
 
