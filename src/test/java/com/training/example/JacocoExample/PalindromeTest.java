@@ -15,18 +15,16 @@ import org.junit.Test;
 
 
 
-public class stringstr{
+public class PalindromeTest{
 
 
 @Test
 // Driver code
 public void checkstr()
 {
-    GFG stringtester = new GFG();
-    assertTrue (stringtester.isWordPresent("hello this is abhishek","hello"))
-	String s = "Geeks for Geeks";
-	String word = "Geeks";
-
+    Palindrome PalindromeTest = new PalindromeTest();
+    assertTrue (PalindromeTest.isWordPresent("hello this is abhishek","hello"))
+	
 	
 
 }
