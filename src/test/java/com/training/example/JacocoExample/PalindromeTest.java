@@ -22,8 +22,8 @@ public class PalindromeTest{
 // Driver code
 public void checkstr()
 {
-    Palindrome PalindromeTest = new PalindromeTest();
-    assertTrue (PalindromeTest.isWordPresent("hello this is abhishek","hello"));
+    Palindrome palindromeTester = new Palindrome();
+    assertTrue(PalindromeTest.isWordPresent("hello this is abhishek","hello"));
 	
 	
 
