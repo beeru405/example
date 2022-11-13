@@ -23,7 +23,7 @@ public class PalindromeTest{
 public void checkstr()
 {
     Palindrome palindromeTester = new Palindrome();
-    assertTrue(PalindromeTestr.isWordPresent("hello this is abhishek","hello"));
+    assertTrue(palindromeTester.isWordPresent("hello this is abhishek","hello"));
 	
 	
 
