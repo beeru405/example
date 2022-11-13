@@ -23,7 +23,7 @@ package com.training.example.JacocoExample;
 
 
 
-public class GFG
+public class Palindrome
 {
 
 // Function that returns true if the word is found
