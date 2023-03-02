@@ -6,6 +6,10 @@
   <artifactId>JacocoExample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
+  <groupId>com.training.example</groupId>
+  <artifactId>JacocoExample</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
  
   <name>JacocoExample</name>
   <url>http://maven.apache.org</url>
